@@ -80,7 +80,7 @@ editor["lambdalisue/suda.vim"] = {
 	cmd = { "SudaRead", "SudaWrite" },
 	init = require("editor.suda"),
 }
-editor["tpope/vim-sleuth"] = {
+editor["ayaanahmed25/vim-sleuth"] = {
 	lazy = true,
 	event = { "BufNewFile", "BufReadPost", "BufFilePost" },
 }
